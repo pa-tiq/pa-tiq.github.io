@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.de25453d.css",
-    "main.js": "/static/js/main.916a70d8.js",
+    "main.css": "/static/css/main.4e54f267.css",
+    "main.js": "/static/js/main.1a50bff0.js",
     "static/media/wedan_vertical.png": "/static/media/wedan_vertical.0f40ac12db7113d3e233.png",
     "static/media/wedan.jpg": "/static/media/wedan.b62b907e009c720c51e7.jpg",
     "static/media/logo_regius.png": "/static/media/logo_regius.eca0c796abda20b87d3f.png",
@@ -9,11 +9,11 @@
     "static/media/eletronico.png": "/static/media/eletronico.97aa2e729371ec5960e7.png",
     "static/media/wedan-black.svg": "/static/media/wedan-black.f614f34adae46d439b3dbcf61608c717.svg",
     "index.html": "/index.html",
-    "main.de25453d.css.map": "/static/css/main.de25453d.css.map",
-    "main.916a70d8.js.map": "/static/js/main.916a70d8.js.map"
+    "main.4e54f267.css.map": "/static/css/main.4e54f267.css.map",
+    "main.1a50bff0.js.map": "/static/js/main.1a50bff0.js.map"
   },
   "entrypoints": [
-    "static/css/main.de25453d.css",
-    "static/js/main.916a70d8.js"
+    "static/css/main.4e54f267.css",
+    "static/js/main.1a50bff0.js"
   ]
 }
