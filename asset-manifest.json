@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e54f267.css",
-    "main.js": "/static/js/main.1a50bff0.js",
+    "main.css": "/static/css/main.aceb580a.css",
+    "main.js": "/static/js/main.fdc95400.js",
     "static/media/wedan_vertical.png": "/static/media/wedan_vertical.0f40ac12db7113d3e233.png",
     "static/media/wedan.jpg": "/static/media/wedan.b62b907e009c720c51e7.jpg",
     "static/media/logo_regius.png": "/static/media/logo_regius.eca0c796abda20b87d3f.png",
     "static/media/logo_prevsan.png": "/static/media/logo_prevsan.2a204dbc14cbb6e23225.png",
     "static/media/eletronico.png": "/static/media/eletronico.97aa2e729371ec5960e7.png",
-    "static/media/wedan-black.svg": "/static/media/wedan-black.f614f34adae46d439b3dbcf61608c717.svg",
+    "static/media/wedan-black.svg": "/static/media/wedan-black.fda7ca26889bca69e5d3689900f17b23.svg",
     "index.html": "/index.html",
-    "main.4e54f267.css.map": "/static/css/main.4e54f267.css.map",
-    "main.1a50bff0.js.map": "/static/js/main.1a50bff0.js.map"
+    "main.aceb580a.css.map": "/static/css/main.aceb580a.css.map",
+    "main.fdc95400.js.map": "/static/js/main.fdc95400.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e54f267.css",
-    "static/js/main.1a50bff0.js"
+    "static/css/main.aceb580a.css",
+    "static/js/main.fdc95400.js"
   ]
 }
