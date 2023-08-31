@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.aceb580a.css",
-    "main.js": "/static/js/main.fdc95400.js",
+    "main.js": "/static/js/main.cc495bf6.js",
     "static/media/wedan_vertical.png": "/static/media/wedan_vertical.0f40ac12db7113d3e233.png",
     "static/media/wedan.jpg": "/static/media/wedan.b62b907e009c720c51e7.jpg",
     "static/media/logo_regius.png": "/static/media/logo_regius.eca0c796abda20b87d3f.png",
@@ -10,10 +10,10 @@
     "static/media/wedan-black.svg": "/static/media/wedan-black.fda7ca26889bca69e5d3689900f17b23.svg",
     "index.html": "/index.html",
     "main.aceb580a.css.map": "/static/css/main.aceb580a.css.map",
-    "main.fdc95400.js.map": "/static/js/main.fdc95400.js.map"
+    "main.cc495bf6.js.map": "/static/js/main.cc495bf6.js.map"
   },
   "entrypoints": [
     "static/css/main.aceb580a.css",
-    "static/js/main.fdc95400.js"
+    "static/js/main.cc495bf6.js"
   ]
 }
